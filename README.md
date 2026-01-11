@@ -116,7 +116,7 @@ If you need a camera include this yaml package.
 This package comes with a preconfigured camera and a bunch of camera control is exposed to HomeAssistant.
 ``` yaml
 packages:
-  remote_package_shorthand: github://esphome/sw3Dan/waveshare-s2-audio_esphome_voice/waveshare_camera_pkg.yaml@main
+  waveshare_camera_pkg: github://sw3Dan/waveshare-s2-audio_esphome_voice/waveshare_camera_pkg.yaml@main
 ```
 
 General TODO/wishlist for the device.
